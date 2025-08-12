@@ -10,7 +10,8 @@
 
 
 ### 📊 My Status:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildoalvesdelimajunior)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=gildoalvesdelimajunior&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gildoalvesdelimajunior's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildoalvesdelimajunior&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gildoalvesdelimajunior's GitHub Stats" />
 
 
 # 💡 About me: 
