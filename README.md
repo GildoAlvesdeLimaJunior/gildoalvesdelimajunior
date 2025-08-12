@@ -10,7 +10,7 @@
 
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildoalvesdelimajunior&layout=compact&theme=tokyonight)
 
 
 # 💡 About me: 
