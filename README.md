@@ -6,17 +6,12 @@
 
 # 💡 About me: 
 
-    🎓 Brazilian college student chasing the dream of becoming a Backend Developer
-
-    💻 Currently learning Java, data structures, and algorithms
-
-    ⚙️ I usually be part of many competitive programming, like SBC (SBC Programming Marathon)
-
-    🚀 Passionate about building efficient systems and solving real-world problems
-
-    🌱 Always curious, always learning — code is my playground
-
-    ☕ Powered by coffee, logic, and the occasional debugging marathon
+- 🎓 Brazilian college student chasing the dream of becoming a Backend Developer
+- 💻 Currently learning Java, data structures, and algorithms
+- ⚙️ I usually be part of many competitive programming, like SBC (SBC Programming Marathon)
+- 🚀 Passionate about building efficient systems and solving real-world problems
+- 🌱 Always curious, always learning — code is my playground
+- ☕ Powered by coffee, logic, and the occasional debugging marathon
 
 # 👋 Hello world!
 
