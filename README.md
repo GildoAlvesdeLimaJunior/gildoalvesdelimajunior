@@ -4,12 +4,12 @@
 
 👋 Hi, I’m Gildo Alves, a college student from Brazil passionate about building efficient and scalable backend systems. I’m currently sharpening my skills in Java, data structures, and algorithms, while exploring frameworks and tools for modern backend development. My goal is to design robust APIs, optimize server-side performance, and contribute to impactful projects that solve real-world problems.
 
-### 🛠️ My Status
+### 🛠️ Languages and Tecnologys:
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 📊 Most Used Languages
+### 📊 My Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildoalvesdelimajunior)](https://github.com/anuraghazra/github-readme-stats)
 
 
