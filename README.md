@@ -1,38 +1,40 @@
-# 🔥 Gildo Alves de Lima Junior
+# Gildo Alves
+**DevOps Engineer | Cloud & Infrastructure Automation**
 
-**`BackEnd Developer (Java/MySql)`** 
+Connecting robust systems development with scalable infrastructure efficiency. With a solid foundation in Backend development (Java/JVM) and algorithmic optimization — honed through participations in the SBC Programming Marathon — I focus on pipeline automation, environment resilience, and DevOps culture.
 
-👋 Hi, I’m Gildo Alves, a college student from Brazil passionate about building efficient and scalable backend systems. I’m currently sharpening my skills in Java, data structures, and algorithms, while exploring frameworks and tools for modern backend development. My goal is to design robust APIs, optimize server-side performance, and contribute to impactful projects that solve real-world problems.
+---
 
-### 🛠️ Languages and Tecnologys:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/white" width="45" />
+### 🛠️ Tech Stack & Tools
 
-### 📊 My Status:
-<img src="https://github-readme-stats.vercel.app/api?username=gildoalvesdelimajunior&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gildoalvesdelimajunior's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildoalvesdelimajunior&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gildoalvesdelimajunior's GitHub Stats" />
+**Core & Systems**
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" />
 
-# 💡 About me: 
+**Learning**
 
-- 🎓 Brazilian college student chasing the dream of becoming a Backend Developer
-- 💻 Currently learning Java, data structures, and algorithms
-- ⚙️ I usually be part of many competitive programming, like SBC (SBC Programming Marathon)
-- 🚀 Passionate about building efficient systems and solving real-world problems
-- 🌱 Always curious, always learning — code is my playground
-- ☕ Powered by coffee, logic, and the occasional debugging marathon
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" />
 
+---
 
-# 👋 Hello world!
+### 💡 About & Career Pivot
 
-### 📬 Contact & Questions  
-- 💬 **Ask me about anything** — Backend, Java, APIs, data structures, performance... or just tech memes  
-- 📧 **Email:** [gildoalvesdelimajunior@gmail.com](gildoalvesdelimajunior@gmail.com)
+* **Background:** Consistent experience with advanced programming logic, data structures, and building RESTful APIs in Java.
+* **SBC Programming Marathon:** A strong background in competitive programming, which provided me with the ability to solve complex problems under pressure and optimize computing resources.
+* **Current Focus:** Migrating this development background into DevOps, applying process automation (CI/CD), containerization, and continuous delivery pipeline enhancement.
+
+---
+
+### 📬 Contact & Collaboration
+
+* **Email:** [gildoalvesdelimajunior@gmail.com](mailto:gildoalvesdelimajunior@gmail.com)
+* **Open to:** Open-source infrastructure projects, automation labs, and system architecture discussions.
